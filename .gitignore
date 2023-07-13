@@ -1,9 +1,0 @@
-*.py
-*.net
-*.cpp
-
-!important.py
-
-
-[aeiou]*.php
-
