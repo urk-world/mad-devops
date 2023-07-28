@@ -1,3 +1,0 @@
-this is the shell script..
-writting second line of the script...
-
